@@ -1,5 +1,14 @@
 # LCA-Course01 Core Project ModernTech HR Suite
 
+**Trainee:** Liam De Wet
+<br>
+**Programme:** YouthCode Off-Site - Cohort 2, 2026
+<br>
+**Course:** Course 1 - Core Project
+<br>
+**Topic:** ModernTech Solutions HR Management System
+<br>
+
 ## Overview
 
 ModernTech HR Suite is a modern Human Resources Management System built using Vue 3 and Vite. The application provides HR teams with a centralized platform to manage employees, attendance, leave requests, payroll information, and workforce analytics.
