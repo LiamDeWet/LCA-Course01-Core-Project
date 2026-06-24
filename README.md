@@ -1,4 +1,4 @@
-# LCA-Core Project ModernTech HR Suite
+# LCA-Course01 Core Project ModernTech HR Suite
 
 ## Overview
 
