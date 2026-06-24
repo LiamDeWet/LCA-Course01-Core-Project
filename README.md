@@ -129,11 +129,11 @@ src/
 
 ### Clone Repository
 
-git clone <repository-url>
+git clone https://github.com/LiamDeWet/LCA-Course01-Core-Project.git 
 
 ### Navigate to Project
 
-cd moderntech-hr-suite
+cd LCA-Course01-Core-Project
 
 ### Install Dependencies
 
@@ -187,4 +187,4 @@ Liam Jude De Wet
 
 Frontend Web Development Project
 
-ModernTech HR Suite
+LCA Course 1 Core Project ModernTech HR Suite
