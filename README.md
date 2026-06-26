@@ -172,21 +172,7 @@ This project demonstrates:
 - Data filtering and searching
 - Modern frontend development workflows
 
----
 
-## Future Improvements
-
-- Authentication and authorization
-- Employee profile photos
-- Backend API integration
-- Database connectivity
-- Role-based permissions
-- PDF report exports
-- Email notifications
-- Payroll tax calculations
-- Employee performance reviews
-
----
 
 ## Author
 
